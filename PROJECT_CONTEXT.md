@@ -72,11 +72,11 @@ zapflow/
 
 ## Progress Tracker
 ### Phase 1 — Data Simulation
-- [ ] 01_generate_customers
-- [ ] 02_generate_dark_stores
-- [ ] 03_generate_inventory
-- [ ] 04_generate_orders
-- [ ] 05_generate_deliveries
+- [✅] 01_generate_customers
+- [✅] 02_generate_dark_stores
+- [✅] 03_generate_inventory
+- [✅] 04_generate_orders
+- [✅] 05_generate_deliveries
 
 ### Phase 2 — Bronze Layer
 - [ ] bronze_customers
@@ -114,17 +114,5 @@ zapflow/
 - [ ] README.md
 - [ ] Interview talking points per component
 
----
-
-## Key Decisions & Why
-| Decision | Reason |
-|---|---|
-| Delta Lake over Parquet | ACID transactions, time travel, schema enforcement |
-| Simulated data over Kaggle | Full control over quality issues and patterns |
-| Single project over multiple | Depth > breadth for senior interviews |
-| Community Edition only | Zero cost, realistic constraint |
-| Quick Commerce domain | Modern, relatable, not oversaturated |
-
----
 
 
