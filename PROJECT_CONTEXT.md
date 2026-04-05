@@ -10,14 +10,6 @@ on Databricks Community Edition. Simulates a quick commerce platform
 (Zepto/Blinkit style) with end-to-end data pipeline covering 
 ingestion, transformation, modeling, quality checks, and serving layer.
 
----
-
-## Target
-- Job interviews at product-based companies / well-funded startups
-- Target: 15 LPA+
-- Stack must be explainable and defensible in interviews
-
----
 
 ## Tech Stack
 | Layer | Tool |
