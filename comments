@@ -1,0 +1,5 @@
+Batch control table will be only one table for all three layers...
+
+In one run the csv file --> raw --> refined --> presentation
+
+There will be only one Config file for entire workflow / JOB
