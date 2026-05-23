@@ -1,0 +1,28 @@
+{
+
+  "source_files":{
+    "customers":"/Volumes/zapflow_raw/raw_data/raw_files/customers/",
+    "dark_stores":"/Volumes/zapflow_raw/raw_data/raw_files/dark_stores/",
+    "deliveries":"/Volumes/zapflow_raw/raw_data/raw_files/deliveries/",
+    "inventory":"/Volumes/zapflow_raw/raw_data/raw_files/inventory/",
+    "orders":"/Volumes/zapflow_raw/raw_data/raw_files/orders/"
+  },
+
+
+  "batch_control_catalog_name":"controlling",
+  "batch_control_schema_name":"batch_control",
+  "raw_catalog_name":"zapflow_raw",
+  "raw_schema_name":"default",
+  "refined_catalog_name":"zapflow_refined",
+  "refined_schema_name":"default",
+  "presentation_catalog_name":"zapflow_presentation",
+  "presentation_schema_name":"default"
+
+  
+  
+  
+  
+
+
+
+}
