@@ -16,7 +16,9 @@
   "refined_catalog_name":"zapflow_refined",
   "refined_schema_name":"default",
   "presentation_catalog_name":"zapflow_presentation",
-  "presentation_schema_name":"default"
+  "presentation_schema_name":"default",
+  "file_registry_catalog_name": "zapflow_control",
+  "file_registry_schema_name": "control"
 
   
   
